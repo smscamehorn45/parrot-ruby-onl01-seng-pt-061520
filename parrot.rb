@@ -1,0 +1,3 @@
+def Parrot
+  Sound = "Squawk!"
+  
