@@ -1,3 +1,3 @@
 def Parrot
-  Sound = "Squawk!"
+ "Squawk!"
 end
