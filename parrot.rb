@@ -1,6 +1,5 @@
-def parrot_and_return_name
-  "Squawk!"
+def parrot(string="Squawk!")
+  puts "#{string}"
+  "#{string}"
 end
-  
-  
  
